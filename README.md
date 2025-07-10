@@ -2,7 +2,7 @@
 
 *Note: this repo does not track any map files. If you would like to make any edits, you will have to import the map yourself*
 
-Absolutely massive shoutout to (bigwig)[https://steamcommunity.com/id/bigwig] for the most influential map of my childhood, gm_bigcity is still a banger.
+Absolutely massive shoutout to [bigwig](https://steamcommunity.com/id/bigwig) for the most influential map of my childhood, gm_bigcity is still a banger.
 
 ## Importing a Garry's Mod map
 First step is to subscribe to whatever mod map you're looking to import. Once Steam downloads the map, it will be available in ```{SteamFolder}/SteamLibrary/steamapps/common/GarrysMod/garrysmod/cache/workshop``` in .gma format. You can find the id number corresponding to the .gma you are looking for by grabbing the ID from the addons workshop page URL.
